@@ -13,5 +13,3 @@
 
 #### To see sample ticket produced by the project open ticket.txt file
 
-
-Thank You 
